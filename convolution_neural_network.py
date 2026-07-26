@@ -1,8 +1,5 @@
 '''
-Docstring for Python.IA.CNN.MNIST - number recongnition.convolution_neural_network
-
 To do list :
-- Backpropagation de la Convolution
 
 - Optimisation (
     Vectorisation partielle
